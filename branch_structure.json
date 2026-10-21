@@ -1,0 +1,18 @@
+{
+  "default_branch": "dev",
+  "branches": [
+    "dev",
+    "feat/issue-739-create-sdk-treasury-liquidity-forecast",
+    "origin"
+  ],
+  "parent": {
+    "dev": null,
+    "feat/issue-739-create-sdk-treasury-liquidity-forecast": "dev",
+    "origin": "dev"
+  },
+  "order": [
+    "dev",
+    "feat/issue-739-create-sdk-treasury-liquidity-forecast",
+    "origin"
+  ]
+}
